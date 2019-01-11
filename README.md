@@ -16,54 +16,41 @@ List matching Line 6 terminology to its real-life inspiration
 
 ### Amps
 
-* WhoWatt
-* Soup Pro - Supro
-* Stone Age
-* Voltage Queen
-* Tweed Blues
-* US - Fender
-* US Small Tweed
-* US Deluxe Nrm
-* US Deluxe Vib
-* US Double Nrm
-* US Double Vib
-* Mail Order Twin
-* Divided Duo
-* Interstate Zed
-* Derailed Ingrid
-* Jazz Rivet 120
-* Essex A15 - Vox A15
-* Essex A30 - Vox A30
-* A30 Fawn
-* Matchstick 
-* Mandarin - Orange
-* Mandarin 80
-* Brit - Marshall
-* Brit J45
-* Brit Trem
-* Brit Plexi
-* Brit P75
-* Brit 2204
-* Placater Dirty - Friedman
-* Cartographer
-* German Mahadeva
-* German Ubersonic
-* Cali - Mesa Boogie
-* Cali Texas
-* Cali IV
-* Cali Rectifire - Mesa Rectifier
-* Archetype Clean
-* Archetype Lead
-* ANGL Meteor - ENGL
-* Solo
+* WhoWatt - Hiwatt® DR-103 Brill
+* Soup Pro - Supro® S6616
+* Stone Age - Gibson® EH-185
+* Voltage Queen - Victoria® Electro King
+* Tweed Blues - Fender® Bassman®
+* US Small Tweed - Fender® Champ
+* US Deluxe - Fender® Deluxe Reverb®
+* US Double - Fender® Twin Reverb® 
+* Mail Order Twin - Silvertone® 1484
+* Divided Duo - ÷13 JRT 9/15
+* Interstate Zed - Dr Z® Route 66
+* Derailed Ingrid - Trainwreck Circuits® Express
+* Jazz Rivet 120 - Roland® JC-120 Jazz Chorus
+* Essex A15 - Vox AC-15
+* Essex A30 - Vox AC-30
+* A30 Fawn - Vox® AC-30 Fawn
+* Matchstick - Matchless DC-30
+* Mandarin 80 - Orange™ OR80
+* Brit J45 - Marshall JTM-45
+* Brit Trem - Marshall® Plexi Tremolo 50
+* Brit Plexi - Marshall® Super Lead 100
+* Brit P75 - Marshall Park® 75
+* Brit 2204 - Marshall JCM-800
+* Placater - Friedman BE-100
+* Cartographer - Ben Adrian Cartographer
+* German Mahadeva - Bogner® Shiva®
+* German Ubersonic - Bogner® Überschall®
+* Cali Texas - MESA/Boogie® Lonestar
+* Cali IV - MESA/Boogie® Mk IV
+* Cali Rectifire - MESA/Boogie® Dual Rectifier®
+* Archetype - PRS Archon
+* ANGL Meteor - ENGL® Fireball 100
+* Solo - Soldano® SLO-100
 * PV - Peavey 5150
-* Line 6 Elektrik
-* Line 6 Doom
-* Line 6 Epic
-* Line 6 2204 Mod
-* Line 6 Fatality
-* Line 6 Litigator
-* Line 6 Badonk
+* Line 6 Elektrik, Doom, Epic, 2204, Fatality, Litigator, Badonk - Line 6 originals
 
 ### Cabinets/Speakers
 
