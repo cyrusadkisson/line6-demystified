@@ -109,6 +109,32 @@ playing dynamic, giving up gobs of distortion with ease."
 
 ### Distortion
 
+* Kinky Boost - Xotic Effects EP booster
+* Minotaur - [Klon Centaur](https://en.wikipedia.org/wiki/Klon_Centaur)
+* Teemah! - [Paul Cochrane Timmy Overdrive](https://reverb.com/p/paul-cochrane-timmy-pedal)
+* Compulsive Drive - Fulltone OCD
+* Valve Driver - Chandler Tube Driver
+* Top Secret OD - DOD OD-250
+* Scream 808 - [Ibanez Tube Screamer](https://en.wikipedia.org/wiki/Ibanez_Tube_Screamer)
+* Hedgehog D9 - Maxon Sonic Distortion
+* Stupor OD - Boss SD-1
+* Vermin Dist - Pro Co Rat
+* KWB - Benadrian Kowloon Walled Bunny Distortion
+* Arbitrator Fuzz - Arbiter Electronics Ltd. Fuzz Face
+* Triangle Fuzz - ElectroHarmonix Big Muff Pi
+* Industrial Fuzz - Z.Vex Fuzz Factory
+* Tycoctavia Fuzz - Tycobrahe® Octavia
+* Wringer Fuzz - Garbage’s special BOSS® FZ-2
+* Thrifter Fuzz - Line 6 Original
+* Megaphone - Megaphone
+* Bitcrusher - Line 6 Original
+* Deez One Vintage - BOSS© DS-1 distortion pedal
+* Deez One Mod - DS-1 Keeley Mod
+
+### Bass distortion
+* Obsidian 7000 - Darkglass Electronics® Microtubes B7K Ultra bass preamp/overdrive/EQ
+* Clawthorn Drive - Wounded Paw Battering Ram bass overdrive
+
 ### Dynamics
 
 ### EQ
